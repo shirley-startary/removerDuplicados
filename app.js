@@ -13,3 +13,5 @@ var removerDuplicados = function (molde) {
 
 var enviarArreglo = [4,7,9,4,0,7];
 console.log(removerDuplicados(enviarArreglo));
+var enviarArreglo = [1,5,8,6,1,9];
+console.log(removerDuplicados(enviarArreglo));
